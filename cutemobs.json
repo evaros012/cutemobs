@@ -4,7 +4,7 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPODEAL",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_banner": "ca-app-pub-3940256099942544/630097811X",
       "appodeal_apikey": "b195f8dd8ded45fe847ad89ed1d016da",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "native_for_admob":"",
